@@ -2,7 +2,7 @@ google-test
 ===========
 
 Given the root of a binary tree, write an algorithm to determine the
-largest possible sum of values for any path in the tree.
+largest possible sum of values for a path in the tree between any two nodes
 
           5
          / \
